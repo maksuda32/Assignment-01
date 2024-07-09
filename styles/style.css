@@ -1,0 +1,111 @@
+
+.azeret-mono-normal {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+.header {
+    background-image: url("../assets/Hero-bg.png");
+    height: 652px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 74px;
+}
+.banner {
+    margin: 25px 221px;
+} 
+.img {
+    text-align: center;
+}
+.title {
+    font-size: 48px;
+    color: #0D1321;
+    padding: 5px 250px;
+    text-align: center;
+}
+.descrip {
+        font-size: 16px;
+        color:#0D1321;
+        padding: 5px 265px;
+        text-align: center;
+        opacity: 70%;
+}
+.btn {
+    background-color: #0D1321;
+    color: white;
+    padding: 13px 15px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-left: 680px;
+}
+/*Main part style*/
+.sec-1 {
+    width: 857px;
+    color: #0D1321;
+    opacity: ;
+}
+.why-title {
+    width: 680px;
+    text-align: center;
+    margin-left: 600px;
+}
+.why-title h3 {
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 150px;
+}
+.why-title p{
+    margin-bottom: 90px;
+    text-align: center;
+    color:#0D1321;
+    opacity: 70%;
+    padding: 0px 0px;
+}
+.card-main {
+    width: 670px;
+    margin-left: 600px;
+}
+.card {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.card-text {
+    width: 277px;
+    margin-right: 98px;
+}
+.card-img {
+    width: 240px;
+}
+.card-text2 {
+    width: 277px;
+    margin-left:20px;
+}
+.card-img2 {
+    width: 240px;
+}
+.sub-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0D1321;
+    opacity: 70%;
+}
+.card-text p {
+    font-size: 14px;
+    color: #0D1321;
+    opacity: 70%;
+
+}
+.card-text2 p {
+    font-size: 14px;
+    color: #0D1321;
+    opacity: 70%;
+
+}
+.card-btn {
+    color: gray;
+    padding: 7px 20px;
+    border: 1px solid gray;
+}
