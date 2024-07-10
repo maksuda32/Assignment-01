@@ -12,7 +12,8 @@
     margin-bottom: 74px;
 }
 .banner {
-    margin: 25px 221px;
+    margin: 25px 0px;
+    margin-left: 190px;
 } 
 .img {
     text-align: center;
@@ -37,7 +38,7 @@
     border: none;
     outline: none;
     border-radius: 5px;
-    margin: 0px 590px;
+    margin: 0px 450px;
 }
 .btn a {
     text-decoration: none;
