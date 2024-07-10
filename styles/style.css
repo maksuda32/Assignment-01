@@ -4,6 +4,9 @@
     font-optical-sizing: auto;
     font-style: normal;
   }
+* {
+    margin: 0px;
+}
 .header {
     background-image: url("../assets/Hero-bg.png");
     height: 652px;
@@ -19,7 +22,7 @@
     text-align: center;
 }
 .title {
-    font-size: 48px;
+    font-size: 40px;
     color: #0D1321;
     padding: 5px 200px;
     text-align: center;
@@ -53,7 +56,7 @@
 .why-title {
     width: 680px;
     text-align: center;
-    margin-left: 600px;
+    margin-left: 638px;
 }
 .why-title h3 {
     font-size: 32px;
@@ -200,7 +203,7 @@
     width: 960px;
     display: flex;
     justify-content: space-around;
-    margin-left: 470px;
+    margin-left: 330px;
     margin-top: 50px;
 
 }
