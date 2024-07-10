@@ -39,6 +39,10 @@
     border-radius: 5px;
     margin-left: 650px;
 }
+.btn a {
+    text-decoration: none;
+    color: white;
+}
 /*Main part style*/
 .sec-1 {
     width: 857px;
@@ -149,6 +153,7 @@
     background-image: url("../assets/handshake.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
+    border-radius: 10px;
     width: 700px;
     height: 313px;
    margin-left: 600px;
@@ -188,4 +193,24 @@
     outline: none;
     border-radius: 5px;
     margin-left: 5px;
+}
+/*footer styles*/
+.footer {
+    width: 960px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 470px;
+    margin-top: 50px;
+
+}
+.footer-collumn i {
+    font-size: 24px;
+    color: #0D99FF;
+    margin-top: 5px;
+    float: right;
+    margin: 8px;
+
+}
+.fagit {
+    color: #161614;
 }
