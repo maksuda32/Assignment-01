@@ -20,24 +20,24 @@
 .title {
     font-size: 48px;
     color: #0D1321;
-    padding: 5px 250px;
+    padding: 5px 200px;
     text-align: center;
 }
 .descrip {
         font-size: 16px;
         color:#0D1321;
-        padding: 5px 265px;
+        padding: 5px 200px;
         text-align: center;
         opacity: 70%;
 }
 .btn {
     background-color: #0D1321;
     color: white;
-    padding: 13px 15px;
+    padding: 13px 70px;
     border: none;
     outline: none;
     border-radius: 5px;
-    margin-left: 650px;
+    margin: 0px 590px;
 }
 .btn a {
     text-decoration: none;
